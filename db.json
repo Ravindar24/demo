@@ -1,8 +1,8 @@
 {
-   "sourceName"  : "file1";
-    "targetName" : "file2";
-    "sourceFilePath" : "";
-    "targetFilePath" : "";
-    "sourceHeaderExcluded" : ["a","b"];
-    "targetHeaderExcluded"  : ["x","y","z"];
+   "sourceName"  : "file1"
+    "targetName" : "file2"
+    "sourceFilePath" : ""
+    "targetFilePath" : ""
+   "sourceHeaderExcluded" : ["a","b"]
+   "targetHeaderExcluded"  : ["x","y","z"]
 }
